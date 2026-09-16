@@ -12,11 +12,7 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=omerxyzz&show_icons=true&count_private=true&theme=default" alt="GitHub Statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerxyzz&layout=compact&theme=default" alt="Most used languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerxyzz&theme=default" alt="GitHub Streak" />
 
-<img src="https://profile-counter.glitch.me/omerxyzz/count.svg?" alt="visitors count" />
 
